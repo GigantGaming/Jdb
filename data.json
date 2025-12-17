@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Users_last_id": 2
+    "Users_last_id": 3
   },
   "classes": {
     "Users": [
@@ -15,6 +15,11 @@
         "id": 2,
         "username": "VK_Raimbo",
         "email": "vk@gmail.com"
+      },
+      {
+        "id": 3,
+        "username": "Rahul",
+        "email": "Rahula@gmail.com"
       }
     ]
   }
