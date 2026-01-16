@@ -1,10 +1,16 @@
 {
   "meta": {
-    "Users_last_id": 3
+    "Users_last_id": 4
   },
   "classes": {
     "Users": [
-      
+      {
+        "id": 4,
+        "username": "Vishal",
+        "email": "vishal@gmail.com",
+        "password": "a700482e8d4ed2512413e91333577463",
+        "created_at": "2026-01-16"
+      }
     ]
   }
 }
