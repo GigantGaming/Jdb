@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Users_last_id": 1
+    "Users_last_id": 2
   },
   "classes": {
     "Users": [
@@ -10,6 +10,13 @@
         "email": "vishal@gmail.com",
         "password": "a700482e8d4ed2512413e91333577463",
         "created_at": "2026-01-16"
+      },
+      {
+        "id": 2,
+        "username": "Anshu Shukla",
+        "email": "anshu@gmail.com",
+        "password": "25f9e794323b453885f5181f1b624d0b",
+        "created_at": "2026-01-25"
       }
     ]
   }
