@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Users_last_id": 2
+    "Users_last_id": 3
   },
   "classes": {
     "Users": [
@@ -17,6 +17,13 @@
         "email": "anshu@gmail.com",
         "password": "25f9e794323b453885f5181f1b624d0b",
         "created_at": "2026-01-25"
+      },
+      {
+        "id": 3,
+        "username": "Mr Megaton",
+        "email": "megaton@gmail.com",
+        "password": "0a691c6b68b1d05463819104d1bf6af3",
+        "created_at": "2026-01-31"
       }
     ]
   }
