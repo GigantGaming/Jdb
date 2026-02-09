@@ -2,12 +2,12 @@
   "meta": {
     "Users_last_id": 1
   },
-
   "lonewolf": {
     "1": [],
-    "2": []
+    "2": [
+      1
+    ]
   },
-
   "classes": {
     "Users": [
       {
@@ -16,7 +16,7 @@
         "email": "aman@gmail.com",
         "password": "hashed",
         "created_at": "2026-02-09",
-        "match": null
+        "match": 2
       }
     ]
   }
