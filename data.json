@@ -1,48 +1,22 @@
 {
   "meta": {
-    "Users_last_id": 5
+    "Users_last_id": 1
   },
+
+  "lonewolf": {
+    "1": [],
+    "2": []
+  },
+
   "classes": {
     "Users": [
       {
         "id": 1,
-        "username": "Vishal",
-        "email": "vishal@gmail.com",
-        "password": "a700482e8d4ed2512413e91333577463",
-        "created_at": "2026-01-16"
-      },
-      {
-        "id": 2,
-        "username": "Anshu Shukla",
-        "email": "anshu@gmail.com",
-        "password": "25f9e794323b453885f5181f1b624d0b",
-        "created_at": "2026-01-25"
-      },
-      {
-        "id": 3,
-        "username": "Mr Megaton",
-        "email": "megaton@gmail.com",
-        "password": "0a691c6b68b1d05463819104d1bf6af3",
-        "created_at": "2026-01-31"
-      },
-      {
-        "id": 4,
-        "username": "Mega",
-        "email": "mega@gmail.com",
-        "password": "0a691c6b68b1d05463819104d1bf6af3",
-        "created_at": "2026-02-01",
-        "JoinedMatches": [
-          3,
-          2,
-          1
-        ]
-      },
-      {
-        "id": 5,
-        "username": "TG-Odinson",
-        "email": "anshushuk551@gmail.com",
-        "password": "12ace4879665c09323251b09c15ceb43",
-        "created_at": "2026-02-02"
+        "username": "Aman",
+        "email": "aman@gmail.com",
+        "password": "hashed",
+        "created_at": "2026-02-09",
+        "match": null
       }
     ]
   }
