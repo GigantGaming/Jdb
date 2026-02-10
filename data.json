@@ -2,20 +2,7 @@
   "meta": {
     "Users_last_id": 3
   },
-  "lonewolf": {
-    "1": [
-      3,
-      2
-    ],
-    "2": [
-      2,
-      3
-    ],
-    "3": [
-      3,
-      1
-    ]
-  },
+  "lonewolf": {},
   "classes": {
     "Users": [
       {
