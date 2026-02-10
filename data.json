@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Users_last_id": 2
+    "Users_last_id": 3
   },
   "lonewolf": {
     "1": [
@@ -27,6 +27,13 @@
         "username": "Mega",
         "email": "mega@gmail.com",
         "password": "603c97dbf2b66f2b47d88c0cfbe32065",
+        "created_at": "2026-02-10"
+      },
+      {
+        "id": 3,
+        "username": "Vishal",
+        "email": "vishal@gmail.com",
+        "password": "aec983f1d0d1225c66977cb3f9bffcd4",
         "created_at": "2026-02-10"
       }
     ]
