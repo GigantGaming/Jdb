@@ -4,7 +4,9 @@
   },
   "lonewolf": {
     "1": [],
-    "2": []
+    "2": [
+      2
+    ]
   },
   "classes": {
     "Users": [
@@ -22,7 +24,9 @@
         "email": "mega@gmail.com",
         "password": "603c97dbf2b66f2b47d88c0cfbe32065",
         "created_at": "2026-02-10",
-        "matches": []
+        "matches": [
+          2
+        ]
       },
       {
         "id": 3,
