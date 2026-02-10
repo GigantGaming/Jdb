@@ -3,7 +3,9 @@
     "Users_last_id": 1
   },
   "lonewolf": {
-    "1": [],
+    "1": [
+      2
+    ],
     "2": []
   },
   "classes": {
