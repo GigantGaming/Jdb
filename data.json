@@ -4,7 +4,8 @@
   },
   "lonewolf": {
     "1": [
-      2
+      2,
+      3
     ],
     "2": [
       2
@@ -37,7 +38,9 @@
         "email": "vishal@gmail.com",
         "password": "aec983f1d0d1225c66977cb3f9bffcd4",
         "created_at": "2026-02-10",
-        "matches": []
+        "matches": [
+          1
+        ]
       },
       {
         "id": 4,
