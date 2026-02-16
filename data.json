@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Users_last_id": 2
+    "Users_last_id": 3
   },
   "lonewolf": {},
   "classes": {
@@ -21,6 +21,16 @@
         "email": "mega@gmail.com",
         "password": "ee9d6bd1b214ee3ef6a15ec21d981f53",
         "created_at": "2026-02-16 22:30",
+        "matches": [],
+        "money": 0,
+        "transactions": []
+      },
+      {
+        "id": 3,
+        "username": "TG-Odinson",
+        "email": "fuck@gmail.com",
+        "password": "d4556e1d061e7e812ab13e1ffa69ff0f",
+        "created_at": "2026-02-16 22:31",
         "matches": [],
         "money": 0,
         "transactions": []
