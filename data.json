@@ -5,6 +5,7 @@
     "Withdraw_last_id": 0
   },
   "lonewolf": {},
+
   "classes": {
     "Users": [
       {
@@ -18,7 +19,8 @@
         "transactions": []
       }
     ],
-    "Deposits": [],
-    "Withdrawals": []
+
+    "pending_deposits": [],
+    "pending_withdrawals": []
   }
 }
