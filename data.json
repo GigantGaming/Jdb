@@ -1,7 +1,7 @@
 {
   "meta": {
     "Users_last_id": 1,
-    "Deposit_last_id": 2,
+    "Deposit_last_id": 3,
     "Withdraw_last_id": 0
   },
   "classes": {
@@ -28,6 +28,13 @@
             "amount": 100,
             "date": "2026-02-18 12:16:40",
             "status": "pending"
+          },
+          {
+            "id": 3,
+            "type": "deposit",
+            "amount": 20,
+            "date": "2026-02-18 12:35:41",
+            "status": "pending"
           }
         ]
       }
@@ -46,6 +53,13 @@
         "amount": 100,
         "utr": "34649494646",
         "date": "2026-02-18 12:16:40"
+      },
+      {
+        "id": 3,
+        "user_id": 1,
+        "amount": 20,
+        "utr": "34649494646",
+        "date": "2026-02-18 12:35:41"
       }
     ],
     "pending_withdrawals": []
