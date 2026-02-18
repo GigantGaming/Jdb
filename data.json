@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Users_last_id": 2,
+    "Users_last_id": 3,
     "Deposit_last_id": 2,
     "Withdraw_last_id": 0
   },
@@ -74,6 +74,16 @@
             "status": "successful"
           }
         ]
+      },
+      {
+        "id": 3,
+        "username": "Anshu Shukla",
+        "email": "anshushuk551@gmail.com",
+        "password": "97e64efb7668514aec903f1a7683c4f6",
+        "created_at": "2026-02-18 15:48",
+        "matches": [],
+        "money": 0,
+        "transactions": []
       }
     ],
     "pending_deposits": [],
