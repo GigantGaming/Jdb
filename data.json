@@ -1,7 +1,7 @@
 {
   "meta": {
     "Users_last_id": 4,
-    "Deposit_last_id": 6,
+    "Deposit_last_id": 7,
     "Withdraw_last_id": 0
   },
   "lonewolf": {
@@ -93,7 +93,15 @@
         "created_at": "2026-02-18 23:58",
         "matches": [],
         "money": 0,
-        "transactions": []
+        "transactions": [
+          {
+            "id": 7,
+            "type": "deposit",
+            "amount": 20,
+            "date": "2026-02-19 00:20:44",
+            "status": "pending"
+          }
+        ]
       }
     ],
     "pending_deposits": [
@@ -124,6 +132,13 @@
         "amount": 50,
         "utr": "737737",
         "date": "2026-02-18 23:59:07"
+      },
+      {
+        "id": 7,
+        "user_id": 4,
+        "amount": 20,
+        "utr": "976475628124",
+        "date": "2026-02-19 00:20:44"
       }
     ],
     "pending_withdrawals": []
