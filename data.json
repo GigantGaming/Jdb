@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Users_last_id": 3,
+    "Users_last_id": 4,
     "Deposit_last_id": 3,
     "Withdraw_last_id": 0
   },
@@ -78,6 +78,16 @@
         "email": "anshushuk551@gmail.com",
         "password": "97e64efb7668514aec903f1a7683c4f6",
         "created_at": "2026-02-18 15:48",
+        "matches": [],
+        "money": 0,
+        "transactions": []
+      },
+      {
+        "id": 4,
+        "username": "Vishal",
+        "email": "vishal@gmail.com",
+        "password": "aec983f1d0d1225c66977cb3f9bffcd4",
+        "created_at": "2026-02-19 00:54",
         "matches": [],
         "money": 0,
         "transactions": []
