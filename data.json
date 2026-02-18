@@ -4,7 +4,20 @@
     "Deposit_last_id": 1,
     "Withdraw_last_id": 0
   },
-  "lonewolf": {},
+  "lonewolf": {
+    "1": {
+      "entry_fee": 8,
+      "players": []
+    },
+    "2": {
+      "entry_fee": 8,
+      "players": []
+    },
+    "3": {
+      "entry_fee": 8,
+      "players": []
+    }
+  },
   "classes": {
     "Users": [
       {
