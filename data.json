@@ -24,27 +24,19 @@
         "matches": [
           1
         ],
-        "money": 0,
+        "money": 10,
         "transactions": [
           {
             "id": 1,
             "type": "deposit",
             "amount": 10,
             "date": "2026-02-18 12:47:00",
-            "status": "pending"
+            "status": "successful"
           }
         ]
       }
     ],
-    "pending_deposits": [
-      {
-        "id": 1,
-        "user_id": 1,
-        "amount": 10,
-        "utr": "34649494646",
-        "date": "2026-02-18 12:47:00"
-      }
-    ],
+    "pending_deposits": [],
     "pending_withdrawals": []
   }
 }
