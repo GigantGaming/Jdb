@@ -1,12 +1,22 @@
 {
   "meta": {
-    "Users_last_id": 0,
+    "Users_last_id": 1,
     "Deposit_last_id": 0,
     "Withdraw_last_id": 0
   },
-
   "classes": {
-    "Users": [],
+    "Users": [
+      {
+        "id": 1,
+        "username": "MrMegaton",
+        "email": "megaton@gmail.com",
+        "password": "0a691c6b68b1d05463819104d1bf6af3",
+        "created_at": "2026-02-18 12:09",
+        "matches": [],
+        "money": 0,
+        "transactions": []
+      }
+    ],
     "pending_deposits": [],
     "pending_withdrawals": []
   }
