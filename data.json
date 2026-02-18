@@ -4,6 +4,7 @@
     "Deposit_last_id": 0,
     "Withdraw_last_id": 0
   },
+  "lonewolf": {},
   "classes": {
     "Users": [
       {
