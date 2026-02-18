@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Users_last_id": 3,
+    "Users_last_id": 4,
     "Deposit_last_id": 4,
     "Withdraw_last_id": 0
   },
@@ -81,6 +81,16 @@
         "email": "anshushuk551@gmail.com",
         "password": "97e64efb7668514aec903f1a7683c4f6",
         "created_at": "2026-02-18 15:48",
+        "matches": [],
+        "money": 0,
+        "transactions": []
+      },
+      {
+        "id": 4,
+        "username": "Mega",
+        "email": "mega@gmail.com",
+        "password": "603c97dbf2b66f2b47d88c0cfbe32065",
+        "created_at": "2026-02-18 23:58",
         "matches": [],
         "money": 0,
         "transactions": []
