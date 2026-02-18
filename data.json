@@ -4,7 +4,13 @@
     "Deposit_last_id": 0,
     "Withdraw_last_id": 0
   },
-  "lonewolf": {},
+  "lonewolf": {
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": []
+  },
   "classes": {
     "Users": [
       {
