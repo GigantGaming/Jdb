@@ -1,7 +1,7 @@
 {
   "meta": {
     "Users_last_id": 4,
-    "Deposit_last_id": 5,
+    "Deposit_last_id": 6,
     "Withdraw_last_id": 0
   },
   "lonewolf": {
@@ -117,6 +117,13 @@
         "amount": 50,
         "utr": "737737",
         "date": "2026-02-18 23:59:01"
+      },
+      {
+        "id": 6,
+        "user_id": 4,
+        "amount": 50,
+        "utr": "737737",
+        "date": "2026-02-18 23:59:07"
       }
     ],
     "pending_withdrawals": []
