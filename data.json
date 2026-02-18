@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Users_last_id": 4,
+    "Users_last_id": 5,
     "Deposit_last_id": 6,
     "Withdraw_last_id": 0
   },
@@ -113,6 +113,16 @@
             "status": "pending"
           }
         ]
+      },
+      {
+        "id": 5,
+        "username": "Mega",
+        "email": "mega@gmail.com",
+        "password": "603c97dbf2b66f2b47d88c0cfbe32065",
+        "created_at": "2026-02-19 01:09",
+        "matches": [],
+        "money": 0,
+        "transactions": []
       }
     ],
     "pending_deposits": [
