@@ -1,15 +1,13 @@
 {
   "meta": {
-    "Users_last_id": 5,
-    "Deposit_last_id": 13,
-    "Withdraw_last_id": 3
+    "Users_last_id": 3,
+    "Deposit_last_id": 0,
+    "Withdraw_last_id": 0
   },
   "lonewolf": {
     "1": {
       "entry_fee": 8,
-      "players": [
-        1
-      ]
+      "players": []
     },
     "2": {
       "entry_fee": 8,
@@ -28,50 +26,9 @@
         "email": "megaton@gmail.com",
         "password": "0a691c6b68b1d05463819104d1bf6af3",
         "created_at": "2026-02-18 12:09",
-        "matches": [
-          1
-        ],
-        "money": 22,
-        "transactions": [
-          {
-            "id": 1,
-            "type": "deposit",
-            "amount": 50,
-            "date": "2026-02-19 00:32:33",
-            "status": "successful"
-          },
-          {
-            "type": "match_entry",
-            "amount": 8,
-            "date": "2026-02-19 00:42:59",
-            "status": "successful"
-          },
-          {
-            "id": 2,
-            "type": "deposit",
-            "amount": 10,
-            "date": "2026-02-19 00:45:12",
-            "status": "successful"
-          },
-          {
-            "id": 3,
-            "type": "deposit",
-            "amount": 10,
-            "date": "2026-02-19 00:45:36",
-            "status": "successful"
-          },
-          {
-            "id": 1,
-            "type": "withdrawal",
-            "amount": 40,
-            "date": "2026-02-20 20:03:11",
-            "status": "pending"
-          }
-        ],
-        "upi_details": {
-          "name": "Gigant Gaming",
-          "upi": "Gigantic@alf"
-        }
+        "matches": [],
+        "money": 0,
+        "transactions": []
       },
       {
         "id": 2,
@@ -90,183 +47,11 @@
         "password": "97e64efb7668514aec903f1a7683c4f6",
         "created_at": "2026-02-18 15:48",
         "matches": [],
-        "money": -10,
-        "transactions": [
-          {
-            "id": 10,
-            "type": "deposit",
-            "amount": 10,
-            "date": "2026-02-20 21:25:34",
-            "status": "successful"
-          },
-          {
-            "id": 2,
-            "type": "withdrawal",
-            "amount": 10,
-            "date": "2026-02-20 21:32:20",
-            "status": "successful"
-          }
-        ],
-        "upi_details": {
-          "name": "Anshu Shukla",
-          "upi": "anshushuk551@okhdfcbank"
-        }
-      },
-      {
-        "id": 4,
-        "username": "Vishal",
-        "email": "vishal@gmail.com",
-        "password": "aec983f1d0d1225c66977cb3f9bffcd4",
-        "created_at": "2026-02-19 00:54",
-        "matches": [],
-        "money": 20,
-        "transactions": [
-          {
-            "id": 4,
-            "type": "deposit",
-            "amount": 20,
-            "date": "2026-02-19 00:54:36",
-            "status": "successful"
-          },
-          {
-            "id": 5,
-            "type": "deposit",
-            "amount": 20,
-            "date": "2026-02-19 00:54:51",
-            "status": "pending"
-          },
-          {
-            "id": 6,
-            "type": "deposit",
-            "amount": 20,
-            "date": "2026-02-19 00:55:12",
-            "status": "pending"
-          }
+        "money": 0,
+        "transactions": []
+      }
         ]
-      },
-      {
-        "id": 5,
-        "username": "Mega",
-        "email": "mega@gmail.com",
-        "password": "603c97dbf2b66f2b47d88c0cfbe32065",
-        "created_at": "2026-02-19 01:09",
-        "matches": [],
-        "money": -10,
-        "transactions": [
-          {
-            "id": 7,
-            "type": "deposit",
-            "amount": 20,
-            "date": "2026-02-19 01:10:11",
-            "status": "pending"
-          },
-          {
-            "id": 8,
-            "type": "deposit",
-            "amount": 100,
-            "date": "2026-02-19 01:10:29",
-            "status": "pending"
-          },
-          {
-            "id": 9,
-            "type": "deposit",
-            "amount": 10,
-            "date": "2026-02-19 01:10:41",
-            "status": "successful"
-          },
-          {
-            "id": 11,
-            "type": "deposit",
-            "amount": 10,
-            "date": "2026-02-20 22:07:31",
-            "status": "pending"
-          },
-          {
-            "id": 12,
-            "type": "deposit",
-            "amount": 20,
-            "date": "2026-02-20 22:07:43",
-            "status": "pending"
-          },
-          {
-            "id": 13,
-            "type": "deposit",
-            "amount": 50,
-            "date": "2026-02-20 22:07:51",
-            "status": "pending"
-          },
-          {
-            "id": 3,
-            "type": "withdrawal",
-            "amount": 10,
-            "date": "2026-02-20 22:12:53",
-            "status": "successful"
-          }
-        ],
-        "upi_details": {
-          "name": "Vijay",
-          "upi": "9919118889@dlp"
-        }
       }
-    ],
-    "pending_deposits": [
-      {
-        "id": 5,
-        "user_id": 4,
-        "amount": 20,
-        "utr": "34649494646",
-        "date": "2026-02-19 00:54:51"
-      },
-      {
-        "id": 6,
-        "user_id": 4,
-        "amount": 20,
-        "utr": "34649494646",
-        "date": "2026-02-19 00:55:12"
-      },
-      {
-        "id": 7,
-        "user_id": 5,
-        "amount": 20,
-        "utr": "34649494646",
-        "date": "2026-02-19 01:10:11"
-      },
-      {
-        "id": 8,
-        "user_id": 5,
-        "amount": 100,
-        "utr": "34649494646",
-        "date": "2026-02-19 01:10:29"
-      },
-      {
-        "id": 11,
-        "user_id": 5,
-        "amount": 10,
-        "utr": "976475628124",
-        "date": "2026-02-20 22:07:31"
-      },
-      {
-        "id": 12,
-        "user_id": 5,
-        "amount": 20,
-        "utr": "976475628124",
-        "date": "2026-02-20 22:07:43"
-      },
-      {
-        "id": 13,
-        "user_id": 5,
-        "amount": 50,
-        "utr": "34649494646",
-        "date": "2026-02-20 22:07:51"
-      }
-    ],
-    "pending_withdrawals": [
-      {
-        "id": 1,
-        "user_id": 1,
-        "amount": 40,
-        "date": "2026-02-20 20:03:11"
-      }
-    ]
-  }
+    "pending_deposits": [],
+    "pending_withdrawals": []
 }
