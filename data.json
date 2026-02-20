@@ -50,8 +50,9 @@
         "money": 0,
         "transactions": []
       }
-        ]
-      },
+        ],
     "pending_deposits": [],
     "pending_withdrawals": []
+  }
 }
+  
