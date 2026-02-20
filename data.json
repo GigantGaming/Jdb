@@ -91,7 +91,11 @@
         "created_at": "2026-02-18 15:48",
         "matches": [],
         "money": 0,
-        "transactions": []
+        "transactions": [],
+        "upi_details": {
+          "name": "Anshu Shukla",
+          "upi": "anshushuk551@okhdfcbank"
+        }
       },
       {
         "id": 4,
