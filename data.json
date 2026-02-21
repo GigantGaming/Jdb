@@ -68,7 +68,11 @@
             "date": "2026-02-20 23:44:17",
             "status": "pending"
           }
-        ]
+        ],
+        "upi_details": {
+          "name": "Gigant Gaming",
+          "upi": "Gigantic@alf"
+        }
       },
       {
         "id": 2,
