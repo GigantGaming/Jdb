@@ -136,19 +136,12 @@
             "type": "deposit",
             "amount": null,
             "date": "2026-02-21 18:20:32",
-            "status": "pending"
+            "status": "rejected"
           }
         ]
       }
     ],
     "pending_deposits": [
-      {
-        "id": 5,
-        "user_id": 4,
-        "amount": null,
-        "utr": "976475626666",
-        "date": "2026-02-21 18:20:32"
-      },
       {
         "id": 6,
         "user_id": 1,
