@@ -5,11 +5,6 @@
     "Withdraw_last_id": 2
   },
   "lonewolf": {
-    "1": {
-      "entry_fee": 15,
-      "players": [],
-      "status": "closed"
-    },
     "2": {
       "entry_fee": 15,
       "players": []
