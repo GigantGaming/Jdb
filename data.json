@@ -21,7 +21,8 @@
     },
     "4": {
       "entry_fee": 15,
-      "players": []
+      "players": [],
+      "status": "closed"
     },
     "5": {
       "entry_fee": 15,
