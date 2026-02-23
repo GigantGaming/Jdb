@@ -2,7 +2,8 @@
   "meta": {
     "Users_last_id": 4,
     "Deposit_last_id": 6,
-    "Withdraw_last_id": 2
+    "Withdraw_last_id": 2,
+    "Lonewolf_last_id": 0
   },
   "lonewolf": {
     "4": {
