@@ -4,7 +4,32 @@
     "Deposit_last_id": 6,
     "Withdraw_last_id": 2
   },
-  "lonewolf": {},
+  "lonewolf": {
+    "1": {
+      "name": "Lone Wolf M1",
+      "entry_fee": 20,
+      "winning_prize": 35,
+      "max_players": 2,
+      "players": [],
+      "status": "open"
+    },
+    "2": {
+      "name": "Lone Wolf M2",
+      "entry_fee": 20,
+      "winning_prize": 35,
+      "max_players": 2,
+      "players": [],
+      "status": "open"
+    },
+    "3": {
+      "name": "Lone Wolf M3",
+      "entry_fee": 20,
+      "winning_prize": 35,
+      "max_players": 2,
+      "players": [],
+      "status": "open"
+    }
+  },
   "classes": {
     "Users": [
       {
