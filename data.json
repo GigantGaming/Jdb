@@ -108,14 +108,14 @@
         "password": "a838a0d8431e75b63271b80b7100b234",
         "created_at": "2026-02-21 18:14",
         "matches": [],
-        "money": 0,
+        "money": 100,
         "transactions": [
           {
             "id": 4,
             "type": "deposit",
             "amount": 100,
             "date": "2026-02-21 18:20:29",
-            "status": "pending"
+            "status": "successful"
           },
           {
             "id": 5,
@@ -128,13 +128,6 @@
       }
     ],
     "pending_deposits": [
-      {
-        "id": 4,
-        "user_id": 4,
-        "amount": 100,
-        "utr": "976475626666",
-        "date": "2026-02-21 18:20:29"
-      },
       {
         "id": 5,
         "user_id": 4,
