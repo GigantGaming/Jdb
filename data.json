@@ -87,7 +87,7 @@
             "type": "withdrawal",
             "amount": 21,
             "date": "2026-02-23 10:26:38",
-            "status": "pending"
+            "status": "successful"
           }
         ],
         "upi_details": {
@@ -142,15 +142,6 @@
       }
     ],
     "pending_deposits": [],
-    "pending_withdrawals": [
-      {
-        "id": 2,
-        "user_id": 1,
-        "upi_Name": "Gigant Gaming",
-        "upi_ID": "Gigantic@alf",
-        "amount": 21,
-        "date": "2026-02-23 10:26:38"
-      }
-    ]
+    "pending_withdrawals": []
   }
 }
