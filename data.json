@@ -33,7 +33,9 @@
       "entry_fee": 15,
       "winning_prize": 25,
       "max_players": 2,
-      "players": [],
+      "players": [
+        1
+      ],
       "status": "open"
     },
     "4": {
@@ -59,9 +61,10 @@
         "matches": [
           2,
           1,
-          4
+          4,
+          3
         ],
-        "money": 114,
+        "money": 99,
         "transactions": [
           {
             "id": 1,
@@ -157,6 +160,12 @@
             "type": "match_entry",
             "amount": 15,
             "date": "2026-02-23 19:24:39",
+            "status": "successful"
+          },
+          {
+            "type": "match_entry",
+            "amount": 15,
+            "date": "2026-02-23 19:24:46",
             "status": "successful"
           }
         ],
