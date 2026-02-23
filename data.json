@@ -50,11 +50,7 @@
         "email": "megaton@gmail.com",
         "password": "0a691c6b68b1d05463819104d1bf6af3",
         "created_at": "2026-02-18 12:09",
-        "matches": [
-          1,
-          2,
-          3
-        ],
+        "matches": [],
         "money": 159,
         "transactions": [
           {
@@ -176,13 +172,6 @@
             "amount": 100,
             "date": "2026-02-21 18:20:29",
             "status": "successful"
-          },
-          {
-            "id": 5,
-            "type": "deposit",
-            "amount": null,
-            "date": "2026-02-21 18:20:32",
-            "status": "rejected"
           }
         ]
       }
