@@ -7,9 +7,8 @@
   "lonewolf": {
     "1": {
       "entry_fee": 15,
-      "players": [
-        1
-      ]
+      "players": [],
+      "status": "closed"
     },
     "2": {
       "entry_fee": 15,
@@ -39,7 +38,7 @@
         "matches": [
           1
         ],
-        "money": 144,
+        "money": 159,
         "transactions": [
           {
             "id": 1,
@@ -87,6 +86,12 @@
             "type": "withdrawal",
             "amount": 21,
             "date": "2026-02-23 10:26:38",
+            "status": "successful"
+          },
+          {
+            "type": "refund",
+            "amount": 15,
+            "date": "2026-02-23 13:16:28",
             "status": "successful"
           }
         ],
