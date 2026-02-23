@@ -2,7 +2,7 @@
   "meta": {
     "Users_last_id": 4,
     "Deposit_last_id": 6,
-    "Withdraw_last_id": 1
+    "Withdraw_last_id": 2
   },
   "lonewolf": {
     "1": {
@@ -39,7 +39,7 @@
         "matches": [
           1
         ],
-        "money": 64,
+        "money": 43,
         "transactions": [
           {
             "id": 1,
@@ -80,6 +80,13 @@
             "type": "withdrawal",
             "amount": 1,
             "date": "2026-02-23 10:04:32",
+            "status": "pending"
+          },
+          {
+            "id": 2,
+            "type": "withdrawal",
+            "amount": 21,
+            "date": "2026-02-23 10:26:38",
             "status": "pending"
           }
         ],
@@ -156,6 +163,14 @@
         "user_id": 1,
         "amount": 1,
         "date": "2026-02-23 10:04:32"
+      },
+      {
+        "id": 2,
+        "user_id": 1,
+        "upi_Name": "Gigant Gaming",
+        "upi_ID": "Gigantic@alf",
+        "amount": 21,
+        "date": "2026-02-23 10:26:38"
       }
     ]
   }
