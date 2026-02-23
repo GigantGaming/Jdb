@@ -4,18 +4,7 @@
     "Deposit_last_id": 6,
     "Withdraw_last_id": 2
   },
-  "lonewolf": {
-    "3": {
-      "name": "Lone Wolf M3",
-      "entry_fee": 20,
-      "winning_prize": 35,
-      "max_players": 2,
-      "players": [
-        1
-      ],
-      "status": "open"
-    }
-  },
+  "lonewolf": {},
   "classes": {
     "Users": [
       {
@@ -29,7 +18,7 @@
           2,
           3
         ],
-        "money": 139,
+        "money": 159,
         "transactions": [
           {
             "id": 1,
@@ -101,6 +90,12 @@
             "type": "refund",
             "amount": 20,
             "date": "2026-02-23 17:00:41",
+            "status": "successful"
+          },
+          {
+            "type": "refund",
+            "amount": 20,
+            "date": "2026-02-23 17:00:45",
             "status": "successful"
           }
         ],
