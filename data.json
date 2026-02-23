@@ -16,17 +16,6 @@
       ],
       "status": "open"
     },
-    "2": {
-      "name": "Lone Wolf",
-      "mid": "2",
-      "entry_fee": 15,
-      "winning_prize": 25,
-      "max_players": 2,
-      "players": [
-        1
-      ],
-      "status": "open"
-    },
     "3": {
       "name": "Lone Wolf",
       "mid": "3",
@@ -64,7 +53,7 @@
           4,
           3
         ],
-        "money": 99,
+        "money": 114,
         "transactions": [
           {
             "id": 1,
@@ -166,6 +155,12 @@
             "type": "match_entry",
             "amount": 15,
             "date": "2026-02-23 19:24:46",
+            "status": "successful"
+          },
+          {
+            "type": "refund",
+            "amount": 15,
+            "date": "2026-02-23 19:33:56",
             "status": "successful"
           }
         ],
