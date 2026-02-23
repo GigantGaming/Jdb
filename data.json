@@ -39,7 +39,7 @@
         "matches": [
           1
         ],
-        "money": 44,
+        "money": 144,
         "transactions": [
           {
             "id": 1,
@@ -73,7 +73,7 @@
             "type": "deposit",
             "amount": 100,
             "date": "2026-02-21 18:24:53",
-            "status": "pending"
+            "status": "successful"
           },
           {
             "id": 1,
@@ -141,15 +141,7 @@
         ]
       }
     ],
-    "pending_deposits": [
-      {
-        "id": 6,
-        "user_id": 1,
-        "amount": 100,
-        "utr": "976475628124",
-        "date": "2026-02-21 18:24:53"
-      }
-    ],
+    "pending_deposits": [],
     "pending_withdrawals": [
       {
         "id": 2,
