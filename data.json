@@ -2,7 +2,7 @@
   "meta": {
     "Users_last_id": 4,
     "Deposit_last_id": 4,
-    "Withdraw_last_id": 0,
+    "Withdraw_last_id": 1,
     "Lonewolf_last_id": 8
   },
   "lonewolf": {
@@ -38,7 +38,7 @@
         "matches": [
           1
         ],
-        "money": 45,
+        "money": 20,
         "transactions": [
           {
             "id": 2,
@@ -78,6 +78,13 @@
             "amount": 15,
             "date": "2026-02-24 15:55:25",
             "status": "successful"
+          },
+          {
+            "id": 1,
+            "type": "withdrawal",
+            "amount": 25,
+            "date": "2026-02-24 16:03:22",
+            "status": "pending"
           }
         ],
         "upi_details": {
@@ -125,6 +132,15 @@
       }
     ],
     "pending_deposits": [],
-    "pending_withdrawals": []
+    "pending_withdrawals": [
+      {
+        "id": 1,
+        "user_id": 1,
+        "upi_Name": "Gigant Gaming",
+        "upi_ID": "97950146696@ybl",
+        "amount": 25,
+        "date": "2026-02-24 16:03:22"
+      }
+    ]
   }
 }
