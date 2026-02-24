@@ -1,57 +1,11 @@
 {
   "meta": {
     "Users_last_id": 4,
-    "Deposit_last_id": 6,
-    "Withdraw_last_id": 2,
-    "Lonewolf_last_id": 5
+    "Deposit_last_id": 1,
+    "Withdraw_last_id": 0,
+    "Lonewolf_last_id": 0
   },
-  "lonewolf": {
-    "1": {
-      "name": "Lone Wolf",
-      "mid": "1",
-      "entry_fee": 15,
-      "winning_prize": 25,
-      "max_players": 2,
-      "players": [],
-      "status": "open"
-    },
-    "2": {
-      "name": "Lone Wolf",
-      "mid": "2",
-      "entry_fee": 15,
-      "winning_prize": 25,
-      "max_players": 2,
-      "players": [],
-      "status": "open"
-    },
-    "3": {
-      "name": "Lone Wolf",
-      "mid": "3",
-      "entry_fee": 15,
-      "winning_prize": 25,
-      "max_players": 2,
-      "players": [],
-      "status": "open"
-    },
-    "4": {
-      "name": "Lone Wolf",
-      "mid": "4",
-      "entry_fee": 15,
-      "winning_prize": 25,
-      "max_players": 2,
-      "players": [],
-      "status": "open"
-    },
-    "5": {
-      "name": "Lone Wolf",
-      "mid": "5",
-      "entry_fee": 15,
-      "winning_prize": 25,
-      "max_players": 2,
-      "players": [],
-      "status": "open"
-    }
-  },
+  "lonewolf": {},
   "classes": {
     "Users": [
       {
@@ -60,142 +14,9 @@
         "email": "megaton@gmail.com",
         "password": "0a691c6b68b1d05463819104d1bf6af3",
         "created_at": "2026-02-18 12:09",
-        "matches": [
-          2
-        ],
-        "money": 159,
-        "transactions": [
-          {
-            "id": 1,
-            "type": "deposit",
-            "amount": 20,
-            "date": "2026-02-20 23:36:24",
-            "status": "successful"
-          },
-          {
-            "id": 2,
-            "type": "deposit",
-            "amount": 50,
-            "date": "2026-02-20 23:39:21",
-            "status": "successful"
-          },
-          {
-            "type": "match_entry",
-            "amount": 15,
-            "date": "2026-02-20 23:39:37",
-            "status": "successful"
-          },
-          {
-            "id": 3,
-            "type": "deposit",
-            "amount": 10,
-            "date": "2026-02-20 23:44:17",
-            "status": "successful"
-          },
-          {
-            "id": 6,
-            "type": "deposit",
-            "amount": 100,
-            "date": "2026-02-21 18:24:53",
-            "status": "successful"
-          },
-          {
-            "id": 1,
-            "type": "withdrawal",
-            "amount": 1,
-            "date": "2026-02-23 10:04:32",
-            "status": "rejected"
-          },
-          {
-            "id": 2,
-            "type": "withdrawal",
-            "amount": 21,
-            "date": "2026-02-23 10:26:38",
-            "status": "successful"
-          },
-          {
-            "type": "refund",
-            "amount": 15,
-            "date": "2026-02-23 13:16:28",
-            "status": "successful"
-          },
-          {
-            "type": "match_entry",
-            "amount": 20,
-            "date": "2026-02-23 13:25:49",
-            "status": "successful"
-          },
-          {
-            "type": "match_entry",
-            "amount": 20,
-            "date": "2026-02-23 13:26:12",
-            "status": "successful"
-          },
-          {
-            "type": "refund",
-            "amount": 20,
-            "date": "2026-02-23 17:00:41",
-            "status": "successful"
-          },
-          {
-            "type": "refund",
-            "amount": 20,
-            "date": "2026-02-23 17:00:45",
-            "status": "successful"
-          },
-          {
-            "type": "match_entry",
-            "amount": 15,
-            "date": "2026-02-23 19:23:53",
-            "status": "successful"
-          },
-          {
-            "type": "match_entry",
-            "amount": 15,
-            "date": "2026-02-23 19:24:31",
-            "status": "successful"
-          },
-          {
-            "type": "match_entry",
-            "amount": 15,
-            "date": "2026-02-23 19:24:39",
-            "status": "successful"
-          },
-          {
-            "type": "match_entry",
-            "amount": 15,
-            "date": "2026-02-23 19:24:46",
-            "status": "successful"
-          },
-          {
-            "type": "refund",
-            "amount": 15,
-            "date": "2026-02-23 19:33:56",
-            "status": "successful"
-          },
-          {
-            "type": "refund",
-            "amount": 15,
-            "date": "2026-02-23 19:45:58",
-            "status": "successful"
-          },
-          {
-            "type": "refund",
-            "amount": 15,
-            "date": "2026-02-23 19:46:03",
-            "status": "successful"
-          },
-          {
-            "type": "refund",
-            "amount": 15,
-            "date": "2026-02-23 19:47:16",
-            "status": "successful"
-          }
-        ],
-        "upi_details": {
-          "name": "Gigant Gaming",
-          "upi": "Gigantic@alf"
-        }
+        "matches": [],
+        "money": 0,
+        "transactions": []
       },
       {
         "id": 2,
@@ -227,7 +48,7 @@
         "money": 100,
         "transactions": [
           {
-            "id": 4,
+            "id": 1,
             "type": "deposit",
             "amount": 100,
             "date": "2026-02-21 18:20:29",
