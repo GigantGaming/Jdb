@@ -79,7 +79,11 @@
             "date": "2026-02-24 15:55:25",
             "status": "successful"
           }
-        ]
+        ],
+        "upi_details": {
+          "name": "Gigant Gaming",
+          "upi": "97950146696@ybl"
+        }
       },
       {
         "id": 2,
