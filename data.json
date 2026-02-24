@@ -59,15 +59,6 @@
       "max_players": 2,
       "players": [],
       "status": "open"
-    },
-    "7": {
-      "name": "Lone Wolf",
-      "mid": "7",
-      "entry_fee": 15,
-      "winning_prize": 25,
-      "max_players": 2,
-      "players": [],
-      "status": "open"
     }
   },
   "classes": {
