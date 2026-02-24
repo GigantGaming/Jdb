@@ -22,7 +22,7 @@
             "type": "deposit",
             "amount": 50,
             "date": "2026-02-24 15:27:04",
-            "status": "pending"
+            "status": "rejected"
           }
         ]
       },
@@ -65,15 +65,7 @@
         ]
       }
     ],
-    "pending_deposits": [
-      {
-        "id": 2,
-        "user_id": 1,
-        "amount": 50,
-        "utr": "34649494646",
-        "date": "2026-02-24 15:27:04"
-      }
-    ],
+    "pending_deposits": [],
     "pending_withdrawals": []
   }
 }
