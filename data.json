@@ -24,7 +24,7 @@
       "winning_prize": 25,
       "max_players": 2,
       "players": [],
-      "status": "open"
+      "status": "closed"
     },
     "3": {
       "name": "Lone Wolf",
