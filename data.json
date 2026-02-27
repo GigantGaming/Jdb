@@ -15,7 +15,8 @@
       "players": [
         1
       ],
-      "status": "open"
+      "status": "closed",
+      "close_time": 1772168400.2867
     },
     "2": {
       "name": "Lone Wolf",
