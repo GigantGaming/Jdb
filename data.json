@@ -1,7 +1,7 @@
 {
   "meta": {
     "Users_last_id": 6,
-    "Deposit_last_id": 4,
+    "Deposit_last_id": 5,
     "Withdraw_last_id": 1,
     "Lonewolf_last_id": 4
   },
@@ -125,6 +125,13 @@
             "amount": 30,
             "date": "2026-03-02 17:45:48",
             "status": "successful"
+          },
+          {
+            "id": 5,
+            "type": "deposit",
+            "amount": 100,
+            "date": "2026-03-02 18:18:33",
+            "status": "pending"
           }
         ],
         "upi_details": {
@@ -192,7 +199,15 @@
         "transactions": []
       }
     ],
-    "pending_deposits": [],
+    "pending_deposits": [
+      {
+        "id": 5,
+        "user_id": 1,
+        "amount": 100,
+        "utr": "666666666618",
+        "date": "2026-03-02 18:18:33"
+      }
+    ],
     "pending_withdrawals": [
       {
         "id": 1,
