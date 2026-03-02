@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Users_last_id": 5,
+    "Users_last_id": 6,
     "Deposit_last_id": 4,
     "Withdraw_last_id": 1,
     "Lonewolf_last_id": 4
@@ -177,6 +177,16 @@
         "email": "mega@gmail.com",
         "password": "603c97dbf2b66f2b47d88c0cfbe32065",
         "created_at": "2026-02-25 14:33",
+        "matches": [],
+        "money": 0,
+        "transactions": []
+      },
+      {
+        "id": 6,
+        "username": "Rahul",
+        "email": "rk6920585@gmail.com",
+        "password": "d7b36d730a7ab784163610e3f30b34f9",
+        "created_at": "2026-03-02 17:48",
         "matches": [],
         "money": 0,
         "transactions": []
