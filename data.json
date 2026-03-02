@@ -18,16 +18,6 @@
       "status": "open",
       "close_time": null
     },
-    "2": {
-      "name": "Lone Wolf",
-      "mid": "2",
-      "entry_fee": 15,
-      "winning_prize": 25,
-      "max_players": 2,
-      "players": [],
-      "status": "open",
-      "close_time": null
-    },
     "4": {
       "name": "Lone Wolf",
       "mid": "4",
