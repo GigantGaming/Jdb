@@ -39,7 +39,7 @@
         "matches": [
           1
         ],
-        "money": 100,
+        "money": 120,
         "transactions": [
           {
             "id": 2,
@@ -103,6 +103,12 @@
             "type": "winning_prize",
             "amount": 20,
             "date": "2026-03-02 16:49:22",
+            "status": "successful"
+          },
+          {
+            "type": "refund",
+            "amount": 20,
+            "date": "2026-03-02 17:07:45",
             "status": "successful"
           }
         ],
