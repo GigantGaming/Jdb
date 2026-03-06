@@ -38,7 +38,8 @@
       "winning_prize": 25,
       "max_players": 2,
       "players": [
-        1
+        1,
+        5
       ],
       "status": "open"
     },
@@ -231,9 +232,10 @@
         "created_at": "2026-02-25 14:33",
         "matches": [
           1,
-          4
+          4,
+          5
         ],
-        "money": 5055,
+        "money": 5040,
         "transactions": [
           {
             "id": 7,
@@ -258,6 +260,12 @@
             "type": "match_entry",
             "amount": 30,
             "date": "2026-03-06 17:50:14",
+            "status": "successful"
+          },
+          {
+            "type": "match_entry",
+            "amount": 15,
+            "date": "2026-03-06 17:50:25",
             "status": "successful"
           }
         ]
