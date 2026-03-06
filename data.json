@@ -11,8 +11,8 @@
       "name": "Lone Wolf",
       "entry_fee": 20,
       "winning_prize": 35,
-      "room_name": null,
-      "room_pass": null,
+      "room_name": "Oaa-Team",
+      "room_pass": "565412",
       "max_players": 2,
       "players": [],
       "status": "open"
