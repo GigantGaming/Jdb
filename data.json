@@ -88,7 +88,7 @@
             "type": "withdrawal",
             "amount": 25,
             "date": "2026-02-24 16:03:22",
-            "status": "pending"
+            "status": "successful"
           },
           {
             "type": "winning_prize",
@@ -207,15 +207,6 @@
       }
     ],
     "pending_deposits": [],
-    "pending_withdrawals": [
-      {
-        "id": 1,
-        "user_id": 1,
-        "upi_Name": "Gigant Gaming",
-        "upi_ID": "97950146696@ybl",
-        "amount": 25,
-        "date": "2026-02-24 16:03:22"
-      }
-    ]
+    "pending_withdrawals": []
   }
 }
