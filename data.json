@@ -6,16 +6,6 @@
     "Lonewolf_last_id": 4
   },
   "lonewolf": {
-    "1": {
-      "name": "Lone Wolf",
-      "entry_fee": 20,
-      "winning_prize": 35,
-      "room_name": null,
-      "room_pass": null,
-      "max_players": 2,
-      "players": [],
-      "status": "open"
-    },
     "2": {
       "name": "Lone Wolf",
       "entry_fee": 20,
