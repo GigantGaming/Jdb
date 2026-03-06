@@ -3,9 +3,65 @@
     "Users_last_id": 8,
     "Deposit_last_id": 9,
     "Withdraw_last_id": 1,
-    "Lonewolf_last_id": 0
+    "Lonewolf_last_id": 5
   },
-  "lonewolf": {},
+  "lonewolf": {
+    "1": {
+      "mid": "1",
+      "name": "Lone Wolf",
+      "entry_fee": 20,
+      "winning_prize": 35,
+      "room_name": null,
+      "room_pass": null,
+      "max_players": 2,
+      "players": [],
+      "status": "open"
+    },
+    "2": {
+      "mid": "2",
+      "name": "Lone Wolf",
+      "entry_fee": 20,
+      "winning_prize": 35,
+      "room_name": null,
+      "room_pass": null,
+      "max_players": 2,
+      "players": [],
+      "status": "open"
+    },
+    "3": {
+      "mid": "3",
+      "name": "Lone Wolf",
+      "entry_fee": 20,
+      "winning_prize": 35,
+      "room_name": null,
+      "room_pass": null,
+      "max_players": 2,
+      "players": [],
+      "status": "open"
+    },
+    "4": {
+      "mid": "4",
+      "name": "Lone Wolf",
+      "entry_fee": 20,
+      "winning_prize": 35,
+      "room_name": null,
+      "room_pass": null,
+      "max_players": 2,
+      "players": [],
+      "status": "open"
+    },
+    "5": {
+      "mid": "5",
+      "name": "Lone Wolf",
+      "entry_fee": 20,
+      "winning_prize": 35,
+      "room_name": null,
+      "room_pass": null,
+      "max_players": 2,
+      "players": [],
+      "status": "open"
+    }
+  },
   "classes": {
     "Users": [
       {
