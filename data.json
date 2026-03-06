@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Users_last_id": 7,
+    "Users_last_id": 8,
     "Deposit_last_id": 7,
     "Withdraw_last_id": 1,
     "Lonewolf_last_id": 4
@@ -269,6 +269,16 @@
         "email": "vishal@gmail.com",
         "password": "dbaccb4b42dda50cc5e1bf5b562103e8",
         "created_at": "2026-03-06 17:51",
+        "matches": [],
+        "money": 0,
+        "transactions": []
+      },
+      {
+        "id": 8,
+        "username": "Dj ",
+        "email": "anurag@gmail.com",
+        "password": "e10adc3949ba59abbe56e057f20f883e",
+        "created_at": "2026-03-06 21:21",
         "matches": [],
         "money": 0,
         "transactions": []
