@@ -284,7 +284,7 @@
         "matches": [
           1
         ],
-        "money": 20,
+        "money": 1000019,
         "transactions": [
           {
             "id": 8,
@@ -304,6 +304,12 @@
             "type": "match_entry",
             "amount": 20,
             "date": "2026-03-06 21:26:01",
+            "status": "successful"
+          },
+          {
+            "type": "refund",
+            "amount": 999999,
+            "date": "2026-03-06 21:26:52",
             "status": "successful"
           }
         ]
