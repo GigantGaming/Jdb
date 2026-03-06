@@ -280,7 +280,7 @@
         "password": "e10adc3949ba59abbe56e057f20f883e",
         "created_at": "2026-03-06 21:21",
         "matches": [],
-        "money": 20,
+        "money": 40,
         "transactions": [
           {
             "id": 8,
@@ -294,20 +294,12 @@
             "type": "deposit",
             "amount": 20,
             "date": "2026-03-06 21:24:23",
-            "status": "pending"
+            "status": "successful"
           }
         ]
       }
     ],
-    "pending_deposits": [
-      {
-        "id": 9,
-        "user_id": 8,
-        "amount": 20,
-        "utr": "123456789014",
-        "date": "2026-03-06 21:24:23"
-      }
-    ],
+    "pending_deposits": [],
     "pending_withdrawals": []
   }
 }
