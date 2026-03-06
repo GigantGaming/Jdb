@@ -14,7 +14,8 @@
       "room_pass": null,
       "max_players": 2,
       "players": [
-        8
+        8,
+        1
       ],
       "status": "open"
     },
@@ -57,8 +58,10 @@
         "email": "megaton@gmail.com",
         "password": "0a691c6b68b1d05463819104d1bf6af3",
         "created_at": "2026-02-18 12:09",
-        "matches": [],
-        "money": 180,
+        "matches": [
+          1
+        ],
+        "money": 160,
         "transactions": [
           {
             "id": 2,
@@ -166,6 +169,12 @@
             "type": "match_entry",
             "amount": 15,
             "date": "2026-03-06 19:08:42",
+            "status": "successful"
+          },
+          {
+            "type": "match_entry",
+            "amount": 20,
+            "date": "2026-03-06 22:01:29",
             "status": "successful"
           }
         ],
