@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Users_last_id": 8,
+    "Users_last_id": 9,
     "Deposit_last_id": 9,
     "Withdraw_last_id": 1,
     "Lonewolf_last_id": 5
@@ -335,6 +335,16 @@
             "status": "successful"
           }
         ]
+      },
+      {
+        "id": 9,
+        "username": "VishalRaj",
+        "email": "vishalrajnamaste@gmail.com",
+        "password": "0a691c6b68b1d05463819104d1bf6af3",
+        "created_at": "2026-03-07 00:01",
+        "matches": [],
+        "money": 0,
+        "transactions": []
       }
     ],
     "pending_deposits": [],
