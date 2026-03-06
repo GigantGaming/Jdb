@@ -3,10 +3,10 @@
     "Users_last_id": 7,
     "Deposit_last_id": 7,
     "Withdraw_last_id": 1,
-    "Lonewolf_last_id": 11
+    "Lonewolf_last_id": 4
   },
   "lonewolf": {
-    "8": {
+    "1": {
       "name": "Lone Wolf",
       "entry_fee": 20,
       "winning_prize": 35,
@@ -16,7 +16,7 @@
       "players": [],
       "status": "open"
     },
-    "9": {
+    "2": {
       "name": "Lone Wolf",
       "entry_fee": 20,
       "winning_prize": 35,
@@ -26,7 +26,7 @@
       "players": [],
       "status": "open"
     },
-    "10": {
+    "3": {
       "name": "Lone Wolf",
       "entry_fee": 20,
       "winning_prize": 35,
@@ -36,7 +36,7 @@
       "players": [],
       "status": "open"
     },
-    "11": {
+    "4": {
       "name": "Lone Wolf",
       "entry_fee": 20,
       "winning_prize": 35,
