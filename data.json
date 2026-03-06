@@ -42,7 +42,7 @@
           1,
           4
         ],
-        "money": 110,
+        "money": 210,
         "transactions": [
           {
             "id": 2,
@@ -131,7 +131,7 @@
             "type": "deposit",
             "amount": 100,
             "date": "2026-03-02 18:18:33",
-            "status": "pending"
+            "status": "successful"
           },
           {
             "id": 6,
@@ -206,15 +206,7 @@
         "transactions": []
       }
     ],
-    "pending_deposits": [
-      {
-        "id": 5,
-        "user_id": 1,
-        "amount": 100,
-        "utr": "666666666618",
-        "date": "2026-03-02 18:18:33"
-      }
-    ],
+    "pending_deposits": [],
     "pending_withdrawals": [
       {
         "id": 1,
