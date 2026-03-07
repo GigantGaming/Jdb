@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Users_last_id": 9,
+    "Users_last_id": 10,
     "Deposit_last_id": 9,
     "Withdraw_last_id": 1,
     "Lonewolf_last_id": 5
@@ -345,6 +345,13 @@
         "matches": [],
         "money": 0,
         "transactions": []
+      },
+      {
+        "id": 10,
+        "username": "Vishal",
+        "email": "vishalrajnamaste6@gmail.com",
+        "password": "$argon2id$v=19$m=65536,t=3,p=4$BK7y8xolFAb0jAvRvaU9Pg$o0pYIlSSnBV+fm74I4QbSg/03O2frEtd4IFxngrdWj4",
+        "created_at": "2026-03-07"
       }
     ],
     "pending_deposits": [],
