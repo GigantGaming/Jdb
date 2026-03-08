@@ -37,7 +37,8 @@
       "room_pass": null,
       "max_players": 2,
       "players": [],
-      "status": "open"
+      "status": "closed",
+      "close_time": 1772957445
     },
     "4": {
       "mid": "4",
