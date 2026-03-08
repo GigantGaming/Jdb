@@ -12,7 +12,7 @@
         "id": 1,
         "username": "MrMegaton",
         "email": "vishalrajnamaste@gmail.com",
-        "password": "0a691c6b68b1d05463819104d1bf6af3",
+        "password": "$argon2id$v=19$m=65536,t=3,p=4$B67m4b/Oau7PmIMh2pj3Fg$9sPplx4qfuBlFqVVWrarND2/3GDV5tj+K+JwBnMgM1g",
         "created_at": "2026-02-18 12:09",
         "matches": [],
         "money": 0,
