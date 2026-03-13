@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Users_last_id": 7,
+    "Users_last_id": 8,
     "Deposit_last_id": 8,
     "Withdraw_last_id": 0,
     "Lonewolf_last_id": 5
@@ -196,6 +196,13 @@
         "email": "vikaskumar73829@gmail.com",
         "password": "$argon2id$v=19$m=65536,t=3,p=4$R7IOP31IKvoemTpeeY3wmw$9rg81HFPm72sfGlbtS0nbubSt+ovKTHWd2jGz1Rn82M",
         "created_at": "2026-03-10"
+      },
+      {
+        "id": 8,
+        "username": "TG-Odinson",
+        "email": "leteso3486@3dkai.com",
+        "password": "$argon2id$v=19$m=65536,t=3,p=4$UWsoIrlb+4rjV8dgxUSN/w$UZEJmZ3M57EyOGZOE0BPl2DMhicu9K4M2VibBI7Nz3U",
+        "created_at": "2026-03-13"
       }
     ],
     "pending_deposits": [
