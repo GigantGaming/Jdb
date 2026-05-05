@@ -64,7 +64,9 @@
       "room_name": null,
       "room_pass": null,
       "max_players": 2,
-      "players": [],
+      "players": [
+        1
+      ],
       "status": "open"
     }
   },
@@ -78,9 +80,10 @@
         "created_at": "2026-02-18 12:09",
         "matches": [
           1,
-          4
+          4,
+          5
         ],
-        "money": 220,
+        "money": 205,
         "transactions": [
           {
             "id": 2,
@@ -113,6 +116,12 @@
             "type": "match_entry",
             "amount": 15,
             "date": "2026-04-16 14:15:13",
+            "status": "successful"
+          },
+          {
+            "type": "match_entry",
+            "amount": 15,
+            "date": "2026-05-05 02:34:32",
             "status": "successful"
           }
         ]
