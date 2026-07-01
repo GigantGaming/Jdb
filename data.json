@@ -76,7 +76,7 @@
         "id": 1,
         "username": "MrMegaton",
         "email": "vishalrajnamaste@gmail.com",
-        "password": "$argon2id$v=19$m=65536,t=3,p=4$Cd+9dsNXjY/Vq7Ix8j3WYw$Fcb2yQZl3wEe6S+0+ILP9vsytjJoUQczUmkPN15+pDM",
+        "password": "$argon2id$v=19$m=65536,t=3,p=4$oG9Rs/wka7u0bkatIV79AQ$4OVpQDZINvymwr9HzvvB1qZz7QKRgL/p2mnsxY/W29U",
         "tg_id": "5816292367",
         "created_at": "2026-02-18 12:09",
         "matches": [
