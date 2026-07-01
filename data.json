@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Users_last_id": 11,
+    "Users_last_id": 12,
     "Deposit_last_id": 8,
     "Withdraw_last_id": 0,
     "Lonewolf_last_id": 5
@@ -245,6 +245,13 @@
         "email": "storelsa@gmail.com",
         "password": "$argon2id$v=19$m=65536,t=3,p=4$CKFDX3GsnG8kP1L4yc1kMA$JnfoH7nREoXhFUlHyeIv6oT+RcexxDhXrzcByL4MbJI",
         "created_at": "2026-05-03"
+      },
+      {
+        "id": 12,
+        "username": "Anshu Shukla ",
+        "email": "anshu@gmail.com",
+        "password": "$argon2id$v=19$m=65536,t=3,p=4$kd62eomGxtJx3luVosWaXQ$qTCTgGnrOZlx9eYAmii0DqBnHgT6H2MSk22YVMdm6tI",
+        "created_at": "2026-07-01"
       }
     ],
     "pending_deposits": [
